@@ -20,6 +20,7 @@ RUN npm i hcaptcha-solver
 RUN npm i randomstring
 RUN npm i cluster
 RUN npm i cloudflare-bypasser
+RUN npm install
 
 WORKDIR /app
 
