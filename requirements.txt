@@ -2,5 +2,7 @@ Flask
 PyRoxy
 python-telegram-bot==13.15
 requests
+colorama
+python-telegram-bot
 #subprocess
 #re
